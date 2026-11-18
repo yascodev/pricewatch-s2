@@ -1,0 +1,3 @@
+data/raw/*.csv
+data/out/*.csv
+__pycache__/
